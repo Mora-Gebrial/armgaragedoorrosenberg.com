@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /404.html
+Disallow: /admin/
+
+Sitemap: https://armgaragedoorrosenberg.com/sitemap.xml
+Sitemap: https://armgaragedoorrosenberg.com/blog_sitemap.xml
